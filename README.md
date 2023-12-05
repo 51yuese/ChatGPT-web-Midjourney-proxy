@@ -69,14 +69,10 @@
 > 截图非实时更新，实际请以演示站及最新版本的为准
 
 ### PC端
-#### 登陆授权
-![](./images/p1.webp)
-#### AI对话
-![](./images/p2.webp)
-#### AI对话-修改(深色模式)
-![](./images/p3.webp)
-#### AI绘画(深色模式)
-![](./images/p4.webp)
+![](./images/shense/图混图界面.png)
+![](./images/shense/图生图界面.png)
+![](./images/shense/我的绘画界面.png)
+![](./images/shense/插件商店弹窗.png)
 #### AI绘画区域重绘
 ![](./images/p5.webp)
 #### AI绘画详情
