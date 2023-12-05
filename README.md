@@ -68,44 +68,29 @@
 ## 截图
 > 截图非实时更新，实际请以演示站及最新版本的为准
 
-### PC端
+### PC端深色模式
 ![](./images/shense/图混图界面.png)
 ![](./images/shense/图生图界面.png)
 ![](./images/shense/我的绘画界面.png)
 ![](./images/shense/插件商店弹窗.png)
-#### AI绘画区域重绘
-![](./images/p5.webp)
-#### AI绘画详情
-![](./images/p6.webp)
-#### AI对话-咒语描述(深色模式)
-![](./images/p13.webp)
-#### 应用(深色模式)
-![](./images/p14.webp)
-#### 应用使用(深色模式)
-![](./images/p7.webp)
-#### 画廊(深色模式)
-![](./images/p8.webp)
-#### 用户中心概览
-![](./images/p9.webp)
-#### 用户套餐(深色模式)
-![](./images/p10.webp)
-#### 套餐购买(深色模式)
-![](./images/p11.webp)
-#### 邀请好友
-![](./images/p12.webp)
+![](./images/shense/热门应用.png)
+![](./images/shense/绘画图片点击查看详情.png)
+![](./images/shense/绘画首页.png)
+![](./images/shense/首页对话详情.png)
+### PC端浅色模式
+![](./images/qianse/图混图过程.png)
+![](./images/qianse/图生图过程.png)
+![](./images/qianse/点击图片详情1.png)
+![](./images/qianse/热门应用.png)
+![](./images/qianse/绘画任务.png)
+![](./images/qianse/绘画首页.png)
+![](./images/qianse/绘画首页详情.png)
+![](./images/qianse/首页对话.png)
+![](./images/qianse/首页对话详情.png)
 
 ### 移动端
-![](./images/m1.webp)
-#### 移动端 - AI绘画
-![](./images/m2.webp)
-#### 移动端 - 应用(深色模式)
-![](./images/m3.webp)
-#### 移动端 - 画廊
-![](./images/m4.webp)
-#### 移动端 - 我的
-![](./images/m5.webp)
-#### 移动端 - 登陆授权
-![](./images/m6.webp)
+![](./images/绘画.png)
+![](./images/问答创作.png)
 
 ### 后台管理
 #### 控制台
