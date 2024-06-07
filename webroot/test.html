@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+      }
+      canvas {
+        display: block;
+        background: #c6d2c9;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="box">
+      <!--<audio src="http://www.ttistt.com/music/2.mp3"></audio>-->
+      <audio src="./public/mu.mp3"></audio>
+    </div>
+    <canvas></canvas>
+    <script>
+
+      let c = document.querySelector("canvas");
+      c.width = window.innerWidth;
+      c.height = window.innerHeight;
+
+      window.onresize = function () {
+        c.width = window.innerWidth;
+        c.height = window.innerHeight;
+      };
+
+      let cxt = c.getContext("2d");
+
+      // 定义线性渐变位置和颜色
+      let color = cxt.createLinearGradient(
+        c.width / 2,
+        c.height / 2 - 100,
+        c.width / 2,
+        c.height / 2 + 100
+      );
+
+      color.addColorStop(0, "#32edf9");
+      color.addColorStop(0.5, "#e38cf5");
+      color.addColorStop(1, "#a2f591");
+
+      // 获取audio元素
+      let audio = document.querySelector("audio");
+
+      // 设置音量大小
+      audio.volume = 1;
+      audio.loop = "loop";
+
+      // 搞一个开关控制音乐播放
+      let off = false;
+
+      // 音频数据
+      let voiceL = null;
+
+      // 定义显示的数量
+      let count = 200;
+      // 点击文档控制播放停止
+      document.addEventListener("click", function () {
+        off ? audio.pause() : audio.play();
+        off = !off;
+        create();
+      });
+
+      function create(params) {
+
+        let actx = new AudioContext();
+        // 创建一个AnalyserNode，用来获取音频时间和频率数据
+        let ayser = actx.createAnalyser();
+        // 搞到所需要的音频资源
+        let aSrc = actx.createMediaElementSource(audio);
+
+        // 关联分析
+        aSrc.connect(ayser);
+        // 关联最终的目标点
+        aSrc.connect(actx.destination);
+
+        // 获取一个可视化的数量 frequencyBinCount 的值固定为 AnalyserNode 接口中fftSize值的一半
+        voiceL = new Uint8Array(ayser.frequencyBinCount);
+        draw();
+        function draw() {
+          cxt.clearRect(0, 0, c.width, c.height);
+          // getByteFrequencyData()方法将当前频率数据复制到传入的Uint8Array（无符号字节数组）中
+          ayser.getByteFrequencyData(voiceL);
+          // 因为只显示200个所以要搞一下显示的间隔
+          let step = Math.round(voiceL.length / count);
+          for (let i = 0; i < count; i++) {
+            let j = voiceL[i * step];
+            // 设置填充色
+            cxt.fillStyle = color;
+            // 从中间向两边填充
+            cxt.fillRect(c.width / 2 + i * 10, c.height / 2, 5, j);
+            cxt.fillRect(c.width / 2 - i * 10, c.height / 2, 5, j);
+            cxt.fillRect(c.width / 2 + i * 10, c.height / 2, 5, -j);
+            cxt.fillRect(c.width / 2 - i * 10, c.height / 2, 5, -j);
+          }
+          requestAnimationFrame(draw);
+        }
+      }
+    </script>
+  </body>
+</html>

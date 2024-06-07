@@ -1,0 +1,9 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="line/Calendar">
+<rect id="Union" x="2.95532" y="9.04257" width="18.0212" height="12.3023" rx="4" stroke="#03060C" stroke-width="1"/>
+<rect id="Union_2" x="2.95532" y="5.19904" width="18.0212" height="16.1458" rx="4" stroke="#03060C" stroke-width="1"/>
+<line id="Union_3" x1="6.75037" y1="3" x2="6.75037" y2="4.4483" stroke="#03060C" stroke-width="1" stroke-linecap="round"/>
+<line id="Union_4" x1="17.2522" y1="3" x2="17.2522" y2="4.4483" stroke="#03060C" stroke-width="1" stroke-linecap="round"/>
+<path id="Union_5" d="M7.89966 15.1876L10.5026 17.7447L16.0736 11.8541" stroke="#03060C" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>
