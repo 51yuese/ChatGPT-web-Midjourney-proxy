@@ -72,24 +72,32 @@
 #### 智能问答
 ![](./images/shense/聊一聊.png)
 ![](./images/shense/聊一聊详情.png)
-![](./images/shense/图混图界面.png)
-![](./images/shense/图生图界面.png)
-![](./images/shense/我的绘画界面.png)
-![](./images/shense/插件商店弹窗.png)
-![](./images/shense/热门应用.png)
-![](./images/shense/绘画图片点击查看详情.png)
-![](./images/shense/绘画首页.png)
-![](./images/shense/首页对话详情.png)
+#### 应用中心
+![](./images/shense/应用中心.png)
+![](./images/shense/应用列表.png)
+#### Suno音乐
+![](./images/shense/创作中心.png)
+![](./images/shense/音乐广场.png)
+#### mjdjourney绘画
+![](./images/shense/文生图.png)
+![](./images/shense/图生文.png)
+![](./images/shense/图生图.png)
+![](./images/shense/AI换脸.png)
 ### PC端浅色模式
+#### 智能问答
 ![](./images/qianse/聊一聊.png)
 ![](./images/qianse/聊一聊详情.png)
-![](./images/qianse/点击图片详情1.png)
-![](./images/qianse/热门应用.png)
-![](./images/qianse/绘画任务.png)
-![](./images/qianse/绘画首页.png)
-![](./images/qianse/绘画首页详情.png)
-![](./images/qianse/首页对话.png)
-![](./images/qianse/首页对话详情.png)
+#### 应用中心
+![](./images/qianse/应用中心.png)
+![](./images/qianse/应用列表.png)
+#### Suno音乐
+![](./images/qianse/创作中心.png)
+![](./images/qianse/音乐广场.png)
+#### mjdjourney绘画
+![](./images/qianse/文生图.png)
+![](./images/qianse/图生文.png)
+![](./images/qianse/图生图.png)
+![](./images/qianse/AI换脸.png)
 
 ### 移动端
 ![](./images/绘画.png)
