@@ -105,22 +105,7 @@
 
 ### 后台管理
 #### 控制台
-![](./images/a1.webp)
-#### AI绘画管理
-![](./images/a2.webp)
-#### AI绘画配置
-![](./images/a3.webp)
-#### AI对话配置
-![](./images/a4.webp)
-#### 绘画账号池
-![](./images/a5.webp)
-#### 支付配置
-![](./images/a6.webp)
-#### 站点配置
-![](./images/a7.webp)
-#### 兑换码管理
-![](./images/a8.webp)
-#### 站点自定义样式及脚本
-![](./images/a9.webp)
-#### 动态菜单配置
-![](./images/a10.webp)
+![](./admin/首页.png)
+![](./admin/添加模型.png)
+![](./admin/添加应用.png)
+![](./admin/绘画管理.png)
