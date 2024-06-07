@@ -81,8 +81,8 @@
 ![](./images/shense/绘画首页.png)
 ![](./images/shense/首页对话详情.png)
 ### PC端浅色模式
-![](./images/qianse/图混图过程.png)
-![](./images/qianse/图生图过程.png)
+![](./images/qianse/聊一聊.png)
+![](./images/qianse/聊一聊详情.png)
 ![](./images/qianse/点击图片详情1.png)
 ![](./images/qianse/热门应用.png)
 ![](./images/qianse/绘画任务.png)
