@@ -69,6 +69,9 @@
 > 截图非实时更新，实际请以演示站及最新版本的为准
 
 ### PC端深色模式
+#### 智能问答
+![](./images/shense/聊一聊.png)
+![](./images/shense/聊一聊详情.png)
 ![](./images/shense/图混图界面.png)
 ![](./images/shense/图生图界面.png)
 ![](./images/shense/我的绘画界面.png)
