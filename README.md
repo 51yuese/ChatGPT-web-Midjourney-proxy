@@ -104,8 +104,7 @@
 ![](./images/问答创作.png)
 
 ### 后台管理
-#### 控制台
-![](./admin/首页.png)
-![](./admin/添加模型.png)
-![](./admin/添加应用.png)
-![](./admin/绘画管理.png)
+![](./images/admin/首页.png)
+![](./images/admin/添加模型.png)
+![](./images/admin/添加应用.png)
+![](./images/admin/绘画管理.png)
