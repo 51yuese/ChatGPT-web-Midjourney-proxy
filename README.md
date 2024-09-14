@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 align="center">🍭  GoMaxAI-ChatGPT-Midjourney-Pro</h1>
+<h1 align="center">🍭  GoMaxAI-ChatGPT-Midjourney</h1>
 
 全新精美的私有化AIGC平台(https://github.com/51yuese/GoMaxAI-ChatGPT-Midjourney-Pro)
 
@@ -11,7 +11,7 @@
 - 🔥 产品全功能介绍文档、部署教程等相关内容请(https://pxl6xtaj0ew.feishu.cn/wiki/Zaaqw0x3GiOfUXkYqFmcMy4bnXe?from=from_copylink）查看。🔥 
 
 ## 演示站点
-- [立即进入体验](https://gomaxai.qumao518.vip)
+- [立即进入体验](https://yansi.qumao518.vip)
 
 ## 技术架构
 - 前端：Vue3 
@@ -20,14 +20,11 @@
 
 ## 扫码获取
 ### 微信扫码
-> 备注：AIGC咨询
-
-<img src='./images/wechat.png' width='180' alt='微信二维码'/>
-
-### QQ扫码
-> 备注：AIGC咨询
-
-<img src='./images/qq.png' width='180' alt='QQ二维码'/>
+- Q Q咨询：**124628086**
+- 微信咨询: **lzgzs168**
+---
+ <div align="center">   
+ <img src="https://gitee.com/ignition-network/gomaxai/raw/master/images/wechat.png" alt="icon"/>
 
 ## 你需要准备
 - 域名
