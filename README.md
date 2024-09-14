@@ -3,6 +3,36 @@
 <h1 align="center">🍭  GoMaxAI-ChatGPT-Midjourney</h1>
 
 全新精美的私有化AIGC平台(https://github.com/51yuese/GoMaxAI-ChatGPT-Midjourney-Pro)
+<div align="center">
+
+<a href='#LOGO'>
+  <img src="https://gitee.com/ignition-network/gomaxaipro/raw/master/images/256yuan.png" alt="icon"/>
+</a>
+
+<h1 align="center">GoMaxAI Pro版 (ChatGPT-Midjourney)</h1>
+
+中文 | [English](./README_EN.md)
+
+
+个人、团队、企业私有化运营的AIGC应用,支持ChatGPT、Claude、Gemini、kimi、文心一言、讯飞星火、清华智谱、suno-v3.5、luma-video等模型。
+
+[![Web][Web-image]][web-url]
+[![Windows][Windows-image]][download-url]
+[![MacOS][MacOS-image]][download-url]
+[![Linux][Linux-image]][download-url]
+
+[演示站](https://gomaxai.qumao518.vip) / [免费版](https://github.com/51yuese/ChatGPT-web-Midjourney-proxy) / [Pro版](https://gitee.com/ignition-network/gomaxaipro) / [咨询](http://wpa.qq.com/msgrd?v=3&uin=124628086&site=qq&menu=yes)
+
+[web-url]: https://gomaxai.qumao518.vip/
+[download-url]: https://wwr.lanzouh.com/iufxa28xh3cb
+[Web-image]: https://img.shields.io/badge/Web-PWA-orange?logo=microsoftedge
+[Windows-image]: https://img.shields.io/badge/-Windows-blue?logo=windows
+[MacOS-image]: https://img.shields.io/badge/-MacOS-black?logo=apple
+[Linux-image]: https://img.shields.io/badge/-Linux-333?logo=ubuntu
+
+[<img src="https://vercel.com/button" alt="Deploy on Zeabur" height="30">](https://pxl6xtaj0ew.feishu.cn/wiki/QiwZwSGUniLU6bkAjXVcJ3CWnZf?from=from_copylink) [<img src="https://gitee.com/ignition-network/gomaxaipro/raw/master/images/lazy.png" alt="icon" height="30">](https://laomao.qumao518.vip)  [<img src="https://gitee.com/ignition-network/gomaxaipro/raw/master/images/mjpe.png" alt="icon" height="30">](https://midjourney.bxmj.top)
+
+[<img src="https://gitee.com/ignition-network/gomaxaipro/raw/master/images/mj59.png" height="60" width="288" >](https://midjourney.bxmj.top)
 
 </div>
 
