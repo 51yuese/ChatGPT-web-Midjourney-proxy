@@ -14,16 +14,16 @@
 [![MacOS][MacOS-image]][download-url]
 [![Linux][Linux-image]][download-url]
 
-[演示站](https://gomaxai.qumao518.vip) / [免费版](https://github.com/51yuese/ChatGPT-web-Midjourney-proxy) / [Pro版](https://gitee.com/ignition-network/gomaxaipro) / [咨询](http://wpa.qq.com/msgrd?v=3&uin=124628086&site=qq&menu=yes)
+[演示站](https://yanshi.qumao518.vip) / [免费版](https://github.com/51yuese/ChatGPT-web-Midjourney-proxy) / [Pro版](https://gitee.com/ignition-network/gomaxaipro) / [咨询](http://wpa.qq.com/msgrd?v=3&uin=124628086&site=qq&menu=yes)
 
-[web-url]: https://gomaxai.qumao518.vip/
+[web-url]: https://yanshi.qumao518.vip/
 [download-url]: https://wwr.lanzouh.com/iufxa28xh3cb
 [Web-image]: https://img.shields.io/badge/Web-PWA-orange?logo=microsoftedge
 [Windows-image]: https://img.shields.io/badge/-Windows-blue?logo=windows
 [MacOS-image]: https://img.shields.io/badge/-MacOS-black?logo=apple
 [Linux-image]: https://img.shields.io/badge/-Linux-333?logo=ubuntu
 
-[<img src="https://vercel.com/button" alt="Deploy on Zeabur" height="30">](https://pxl6xtaj0ew.feishu.cn/wiki/QiwZwSGUniLU6bkAjXVcJ3CWnZf?from=from_copylink) [<img src="https://gitee.com/ignition-network/gomaxaipro/raw/master/images/lazy.png" alt="icon" height="30">](https://laomao.qumao518.vip)  [<img src="https://gitee.com/ignition-network/gomaxaipro/raw/master/images/mjpe.png" alt="icon" height="30">](https://midjourney.bxmj.top)
+[<img src="https://vercel.com/button" alt="Deploy on Zeabur" height="30">](https://pxl6xtaj0ew.feishu.cn/wiki/space/7263800727250747395?ccm_open_type=lark_wiki_spaceLink) [<img src="https://gitee.com/ignition-network/gomaxaipro/raw/master/images/lazy.png" alt="icon" height="30">](https://laomao.qumao518.vip)  [<img src="https://gitee.com/ignition-network/gomaxaipro/raw/master/images/mjpe.png" alt="icon" height="30">](https://midjourney.bxmj.top)
 
 [<img src="https://gitee.com/ignition-network/gomaxaipro/raw/master/images/mj59.png" height="60" width="288" >](https://midjourney.bxmj.top)
 
@@ -33,8 +33,22 @@
 - 本系统使用 Nestjs 和 Vue3 搭建的 AIGC 生态社区开发。数据库底层使用 MYSOL，WEB环境使用 PHP7.4 和niginx1.20.2，下面是简单功能个绍，还有更多细节无法一介绍，需要你自己下载并安装才能体验。
 - 🔥 产品全功能介绍文档、部署教程等相关内容请(https://pxl6xtaj0ew.feishu.cn/wiki/Zaaqw0x3GiOfUXkYqFmcMy4bnXe?from=from_copylink）查看。🔥 
 
+## 功能支持
+> - PRO版本支持更强大的功能：
+> - 全新UI界面（专属风格，简洁大气）
+> - 全新会员积分系统，支持会员免费、会员每日免费次数设置等
+> - 全新管理后台（全新UI风格，另增加很多细节功能）
+> - 支持主页功能（支持首页推荐、轮播图、副标题等）
+> - 支持对话内容支持表格、文档、高亮块等效果
+> - 支持AI视频功能（Luma视频）
+> - 支持MJ专业版功能（仿官网操作）
+> - 重构智能问答、MJ绘画、suno音乐功能，使用更丝滑
+> - SAAS多开功能（分站功能，代理商可以绑定自己的域名，设置自己的LOGO和网站名称，对接自己的公众号，自由配置套餐价格等）
+> - 修复免费版本各功能BUG
+> - [🫱 点我立即了解及体验PRO版本](https://github.com/51yuese/GoMaxAI-ChatGPT-Midjourney-Pro)
+
 ## 演示站点
-- [立即进入体验](https://yansi.qumao518.vip)
+- [立即进入体验](https://yanshi.qumao518.vip)
 
 ## 技术架构
 - 前端：Vue3 
