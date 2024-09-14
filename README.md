@@ -61,7 +61,7 @@
 - 微信咨询: **lzgzs168**
 ---
  <div >   
- <img src="https://gitee.com/ignition-network/gomaxai/raw/master/images/wechat.png" alt="icon"/>
+ <img src="https://gitee.com/ignition-network/gomaxai/raw/master/images/wechat.png" height="256" width="256" alt="icon"/>
 
 ## 你需要准备
 - 域名
