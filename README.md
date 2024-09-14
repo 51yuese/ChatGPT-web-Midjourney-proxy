@@ -105,7 +105,7 @@
 
 ### PC端深色模式
 #### 智能问答
-![](./images/shense/聊一聊.png)
+![](https://gitee.com/ignition-network/gomaxai/raw/master/images/shense/%E8%81%8A%E4%B8%80%E8%81%8A.png)
 ![](./images/shense/聊一聊详情.png)
 #### 应用中心
 ![](./images/shense/应用中心.png)
