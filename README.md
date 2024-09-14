@@ -106,40 +106,30 @@
 ### PC端深色模式
 #### 智能问答
 ![](https://gitee.com/ignition-network/gomaxai/raw/master/images/shense/%E8%81%8A%E4%B8%80%E8%81%8A.png)
-![](./images/shense/聊一聊详情.png)
+![](https://gitee.com/ignition-network/gomaxai/raw/master/images/shense/%E8%81%8A%E4%B8%80%E8%81%8A%E8%AF%A6%E6%83%85.png)
 #### 应用中心
-![](./images/shense/应用中心.png)
-![](./images/shense/应用列表.png)
+![](https://gitee.com/ignition-network/gomaxai/raw/master/images/shense/%E5%BA%94%E7%94%A8%E4%B8%AD%E5%BF%83.png)
+![](https://gitee.com/ignition-network/gomaxai/raw/master/images/shense/%E5%BA%94%E7%94%A8%E5%88%97%E8%A1%A8.png)
 #### Suno音乐
-![](./images/shense/创作中心.png)
-![](./images/shense/音乐广场.png)
+![](https://gitee.com/ignition-network/gomaxai/raw/master/images/shense/%E5%88%9B%E4%BD%9C%E4%B8%AD%E5%BF%83.png)
+![](https://gitee.com/ignition-network/gomaxai/raw/master/images/shense/%E9%9F%B3%E4%B9%90%E5%B9%BF%E5%9C%BA.png)
 #### mjdjourney绘画
-![](./images/shense/文生图.png)
-![](./images/shense/图生文.png)
-![](./images/shense/图生图.png)
-![](./images/shense/AI换脸.png)
+![](https://gitee.com/ignition-network/gomaxai/raw/master/images/shense/%E6%96%87%E7%94%9F%E5%9B%BE.png)
+![](https://gitee.com/ignition-network/gomaxai/raw/master/images/shense/%E5%9B%BE%E7%94%9F%E6%96%87.png))
+![](https://gitee.com/ignition-network/gomaxai/raw/master/images/shense/%E5%9B%BE%E7%94%9F%E5%9B%BE.png))
+![](https://gitee.com/ignition-network/gomaxai/raw/master/images/shense/AI%E6%8D%A2%E8%84%B8.png)
 ### PC端浅色模式
 #### 智能问答
-![](./images/qianse/聊一聊.png)
-![](./images/qianse/聊一聊详情.png)
+![](https://gitee.com/ignition-network/gomaxai/raw/master/images/qianse/%E8%81%8A%E4%B8%80%E8%81%8A.png)
+![](https://gitee.com/ignition-network/gomaxai/raw/master/images/qianse/%E8%81%8A%E4%B8%80%E8%81%8A%E8%AF%A6%E6%83%85.png)
 #### 应用中心
-![](./images/qianse/应用中心.png)
-![](./images/qianse/应用列表.png)
+![](https://gitee.com/ignition-network/gomaxai/raw/master/images/qianse/%E5%BA%94%E7%94%A8%E4%B8%AD%E5%BF%83.png)
+![](https://gitee.com/ignition-network/gomaxai/raw/master/images/qianse/%E5%BA%94%E7%94%A8%E5%88%97%E8%A1%A8.png)
 #### Suno音乐
-![](./images/qianse/创作中心.png)
-![](./images/qianse/音乐广场.png)
+![](https://gitee.com/ignition-network/gomaxai/raw/master/images/qianse/%E5%88%9B%E4%BD%9C%E4%B8%AD%E5%BF%83.png)
+![](https://gitee.com/ignition-network/gomaxai/raw/master/images/qianse/%E9%9F%B3%E4%B9%90%E5%B9%BF%E5%9C%BA.png)
 #### mjdjourney绘画
-![](./images/qianse/文生图.png)
-![](./images/qianse/图生文.png)
-![](./images/qianse/图生图.png)
-![](./images/qianse/AI换脸.png)
-
-### 移动端
-![](./images/绘画.png)
-![](./images/问答创作.png)
-
-### 后台管理
-![](./images/admin/首页.png)
-![](./images/admin/添加模型.png)
-![](./images/admin/添加应用.png)
-![](./images/admin/绘画管理.png)
+![](https://gitee.com/ignition-network/gomaxai/raw/master/images/qianse/%E6%96%87%E7%94%9F%E5%9B%BE.png)
+![](https://gitee.com/ignition-network/gomaxai/raw/master/images/qianse/%E5%9B%BE%E7%94%9F%E6%96%87.png)
+![](https://gitee.com/ignition-network/gomaxai/raw/master/images/qianse/%E5%9B%BE%E7%94%9F%E5%9B%BE.png)
+![](https://gitee.com/ignition-network/gomaxai/raw/master/images/qianse/AI%E6%8D%A2%E8%84%B8.png)
