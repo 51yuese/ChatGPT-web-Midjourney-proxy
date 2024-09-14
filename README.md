@@ -1,20 +1,13 @@
 <div align="center">
-
-<h1 align="center">🍭  GoMaxAI-ChatGPT-Midjourney</h1>
-
-全新精美的私有化AIGC平台(https://github.com/51yuese/GoMaxAI-ChatGPT-Midjourney-Pro)
-<div align="center">
-
 <a href='#LOGO'>
   <img src="https://gitee.com/ignition-network/gomaxaipro/raw/master/images/256yuan.png" alt="icon"/>
 </a>
 
-<h1 align="center">GoMaxAI Pro版 (ChatGPT-Midjourney)</h1>
+<h1 align="center">🍭  GoMaxAI-ChatGPT-Midjourney</h1>
 
 中文 | [English](./README_EN.md)
 
-
-个人、团队、企业私有化运营的AIGC应用,支持ChatGPT、Claude、Gemini、kimi、文心一言、讯飞星火、清华智谱、suno-v3.5、luma-video等模型。
+全新精美的私有化AIGC平台-GoMaxAI Pro版(https://github.com/51yuese/GoMaxAI-ChatGPT-Midjourney-Pro)
 
 [![Web][Web-image]][web-url]
 [![Windows][Windows-image]][download-url]
