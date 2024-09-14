@@ -112,7 +112,6 @@
 ![](https://gitee.com/ignition-network/gomaxai/raw/master/images/shense/%E5%BA%94%E7%94%A8%E5%88%97%E8%A1%A8.png)
 #### Suno音乐
 ![](https://gitee.com/ignition-network/gomaxai/raw/master/images/shense/%E5%88%9B%E4%BD%9C%E4%B8%AD%E5%BF%83.png)
-![](https://gitee.com/ignition-network/gomaxai/raw/master/images/shense/%E9%9F%B3%E4%B9%90%E5%B9%BF%E5%9C%BA.png)
 #### mjdjourney绘画
 ![](https://gitee.com/ignition-network/gomaxai/raw/master/images/shense/%E6%96%87%E7%94%9F%E5%9B%BE.png)
 ![](https://gitee.com/ignition-network/gomaxai/raw/master/images/shense/%E5%9B%BE%E7%94%9F%E6%96%87.png))
@@ -127,7 +126,6 @@
 ![](https://gitee.com/ignition-network/gomaxai/raw/master/images/qianse/%E5%BA%94%E7%94%A8%E5%88%97%E8%A1%A8.png)
 #### Suno音乐
 ![](https://gitee.com/ignition-network/gomaxai/raw/master/images/qianse/%E5%88%9B%E4%BD%9C%E4%B8%AD%E5%BF%83.png)
-![](https://gitee.com/ignition-network/gomaxai/raw/master/images/qianse/%E9%9F%B3%E4%B9%90%E5%B9%BF%E5%9C%BA.png)
 #### mjdjourney绘画
 ![](https://gitee.com/ignition-network/gomaxai/raw/master/images/qianse/%E6%96%87%E7%94%9F%E5%9B%BE.png)
 ![](https://gitee.com/ignition-network/gomaxai/raw/master/images/qianse/%E5%9B%BE%E7%94%9F%E6%96%87.png)
