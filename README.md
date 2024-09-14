@@ -60,7 +60,7 @@
 - Q Q咨询：**124628086**
 - 微信咨询: **lzgzs168**
 ---
- <div align="center">   
+ <div >   
  <img src="https://gitee.com/ignition-network/gomaxai/raw/master/images/wechat.png" alt="icon"/>
 
 ## 你需要准备
