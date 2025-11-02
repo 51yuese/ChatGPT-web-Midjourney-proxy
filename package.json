@@ -9,7 +9,6 @@
 	"pkg": {
 		"assets": [
 			"./node_modules/**/*",
-			"../node_modules/.pnpm/vm2@3.9.17/**/*",
 			"../node_modules/.pnpm/preview-email@3.0.5/**/*",
 			"./webroot/**/*",
 			"./templates/**/*",
